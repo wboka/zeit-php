@@ -14,6 +14,6 @@
 <body>
   <h1>Zeit &amp; PHP</h1>
   
-  <?php phpinfo(); ?>
+  <?php echo 'Hello world!' ?>
 </body>
 </html>
