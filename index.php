@@ -12,7 +12,7 @@
 	<meta name="viewport" content="width=device-width,initial-scale=1" />
 </head>
 <body>
-  <h1>Zeit &amp;</h1>
+  <h1>Zeit &amp; PHP</h1>
   
   <?php phpinfo(); ?>
 </body>
